@@ -3,7 +3,7 @@
 
 <h3 align="justify">Ligria is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs..</h3>
 
--💻[Live Preview](https://youthful-nobel-7c5fde.netlify.app/ "Live Preview").
+-💻[Live Preview](https://ligria-food-anthony-rosman.netlify.app/ "Live Preview").
 
 ## 🙋‍♂️ About Me</br>
 
